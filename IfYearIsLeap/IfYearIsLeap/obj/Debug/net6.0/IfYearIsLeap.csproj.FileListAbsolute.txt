@@ -1,0 +1,15 @@
+C:\Projects\IfYearIsLeap\IfYearIsLeap\bin\Debug\net6.0\IfYearIsLeap.exe
+C:\Projects\IfYearIsLeap\IfYearIsLeap\bin\Debug\net6.0\IfYearIsLeap.deps.json
+C:\Projects\IfYearIsLeap\IfYearIsLeap\bin\Debug\net6.0\IfYearIsLeap.runtimeconfig.json
+C:\Projects\IfYearIsLeap\IfYearIsLeap\bin\Debug\net6.0\IfYearIsLeap.dll
+C:\Projects\IfYearIsLeap\IfYearIsLeap\bin\Debug\net6.0\IfYearIsLeap.pdb
+C:\Projects\IfYearIsLeap\IfYearIsLeap\obj\Debug\net6.0\IfYearIsLeap.csproj.AssemblyReference.cache
+C:\Projects\IfYearIsLeap\IfYearIsLeap\obj\Debug\net6.0\IfYearIsLeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\IfYearIsLeap\IfYearIsLeap\obj\Debug\net6.0\IfYearIsLeap.AssemblyInfoInputs.cache
+C:\Projects\IfYearIsLeap\IfYearIsLeap\obj\Debug\net6.0\IfYearIsLeap.AssemblyInfo.cs
+C:\Projects\IfYearIsLeap\IfYearIsLeap\obj\Debug\net6.0\IfYearIsLeap.csproj.CoreCompileInputs.cache
+C:\Projects\IfYearIsLeap\IfYearIsLeap\obj\Debug\net6.0\IfYearIsLeap.dll
+C:\Projects\IfYearIsLeap\IfYearIsLeap\obj\Debug\net6.0\refint\IfYearIsLeap.dll
+C:\Projects\IfYearIsLeap\IfYearIsLeap\obj\Debug\net6.0\IfYearIsLeap.pdb
+C:\Projects\IfYearIsLeap\IfYearIsLeap\obj\Debug\net6.0\IfYearIsLeap.genruntimeconfig.cache
+C:\Projects\IfYearIsLeap\IfYearIsLeap\obj\Debug\net6.0\ref\IfYearIsLeap.dll
