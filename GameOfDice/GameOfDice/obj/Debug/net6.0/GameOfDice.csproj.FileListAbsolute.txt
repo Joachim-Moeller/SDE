@@ -1,0 +1,15 @@
+C:\Projects\GameOfDice\GameOfDice\bin\Debug\net6.0\GameOfDice.exe
+C:\Projects\GameOfDice\GameOfDice\bin\Debug\net6.0\GameOfDice.deps.json
+C:\Projects\GameOfDice\GameOfDice\bin\Debug\net6.0\GameOfDice.runtimeconfig.json
+C:\Projects\GameOfDice\GameOfDice\bin\Debug\net6.0\GameOfDice.dll
+C:\Projects\GameOfDice\GameOfDice\bin\Debug\net6.0\GameOfDice.pdb
+C:\Projects\GameOfDice\GameOfDice\obj\Debug\net6.0\GameOfDice.csproj.AssemblyReference.cache
+C:\Projects\GameOfDice\GameOfDice\obj\Debug\net6.0\GameOfDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GameOfDice\GameOfDice\obj\Debug\net6.0\GameOfDice.AssemblyInfoInputs.cache
+C:\Projects\GameOfDice\GameOfDice\obj\Debug\net6.0\GameOfDice.AssemblyInfo.cs
+C:\Projects\GameOfDice\GameOfDice\obj\Debug\net6.0\GameOfDice.csproj.CoreCompileInputs.cache
+C:\Projects\GameOfDice\GameOfDice\obj\Debug\net6.0\GameOfDice.dll
+C:\Projects\GameOfDice\GameOfDice\obj\Debug\net6.0\refint\GameOfDice.dll
+C:\Projects\GameOfDice\GameOfDice\obj\Debug\net6.0\GameOfDice.pdb
+C:\Projects\GameOfDice\GameOfDice\obj\Debug\net6.0\GameOfDice.genruntimeconfig.cache
+C:\Projects\GameOfDice\GameOfDice\obj\Debug\net6.0\ref\GameOfDice.dll
