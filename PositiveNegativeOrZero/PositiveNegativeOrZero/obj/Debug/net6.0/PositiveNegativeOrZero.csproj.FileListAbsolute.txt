@@ -1,0 +1,15 @@
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\bin\Debug\net6.0\PositiveNegativeOrZero.exe
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\bin\Debug\net6.0\PositiveNegativeOrZero.deps.json
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\bin\Debug\net6.0\PositiveNegativeOrZero.runtimeconfig.json
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\bin\Debug\net6.0\PositiveNegativeOrZero.dll
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\bin\Debug\net6.0\PositiveNegativeOrZero.pdb
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.csproj.AssemblyReference.cache
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.AssemblyInfoInputs.cache
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.AssemblyInfo.cs
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.csproj.CoreCompileInputs.cache
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.dll
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\obj\Debug\net6.0\refint\PositiveNegativeOrZero.dll
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.pdb
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.genruntimeconfig.cache
+C:\Projects\PositiveNegativeOrZero\PositiveNegativeOrZero\obj\Debug\net6.0\ref\PositiveNegativeOrZero.dll
