@@ -1,0 +1,15 @@
+C:\Projects\TheCubeOf\TheCubeOf\bin\Debug\net6.0\TheCubeOf.exe
+C:\Projects\TheCubeOf\TheCubeOf\bin\Debug\net6.0\TheCubeOf.deps.json
+C:\Projects\TheCubeOf\TheCubeOf\bin\Debug\net6.0\TheCubeOf.runtimeconfig.json
+C:\Projects\TheCubeOf\TheCubeOf\bin\Debug\net6.0\TheCubeOf.dll
+C:\Projects\TheCubeOf\TheCubeOf\bin\Debug\net6.0\TheCubeOf.pdb
+C:\Projects\TheCubeOf\TheCubeOf\obj\Debug\net6.0\TheCubeOf.csproj.AssemblyReference.cache
+C:\Projects\TheCubeOf\TheCubeOf\obj\Debug\net6.0\TheCubeOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TheCubeOf\TheCubeOf\obj\Debug\net6.0\TheCubeOf.AssemblyInfoInputs.cache
+C:\Projects\TheCubeOf\TheCubeOf\obj\Debug\net6.0\TheCubeOf.AssemblyInfo.cs
+C:\Projects\TheCubeOf\TheCubeOf\obj\Debug\net6.0\TheCubeOf.csproj.CoreCompileInputs.cache
+C:\Projects\TheCubeOf\TheCubeOf\obj\Debug\net6.0\TheCubeOf.dll
+C:\Projects\TheCubeOf\TheCubeOf\obj\Debug\net6.0\refint\TheCubeOf.dll
+C:\Projects\TheCubeOf\TheCubeOf\obj\Debug\net6.0\TheCubeOf.pdb
+C:\Projects\TheCubeOf\TheCubeOf\obj\Debug\net6.0\TheCubeOf.genruntimeconfig.cache
+C:\Projects\TheCubeOf\TheCubeOf\obj\Debug\net6.0\ref\TheCubeOf.dll
