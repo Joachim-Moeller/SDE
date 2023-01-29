@@ -1,0 +1,15 @@
+C:\Projects\Is_result_the_same\Is_result_the_same\obj\Debug\net6.0\Is_result_the_same.csproj.AssemblyReference.cache
+C:\Projects\Is_result_the_same\Is_result_the_same\obj\Debug\net6.0\Is_result_the_same.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Is_result_the_same\Is_result_the_same\obj\Debug\net6.0\Is_result_the_same.AssemblyInfoInputs.cache
+C:\Projects\Is_result_the_same\Is_result_the_same\obj\Debug\net6.0\Is_result_the_same.AssemblyInfo.cs
+C:\Projects\Is_result_the_same\Is_result_the_same\obj\Debug\net6.0\Is_result_the_same.csproj.CoreCompileInputs.cache
+C:\Projects\Is_result_the_same\Is_result_the_same\bin\Debug\net6.0\Is_result_the_same.exe
+C:\Projects\Is_result_the_same\Is_result_the_same\bin\Debug\net6.0\Is_result_the_same.deps.json
+C:\Projects\Is_result_the_same\Is_result_the_same\bin\Debug\net6.0\Is_result_the_same.runtimeconfig.json
+C:\Projects\Is_result_the_same\Is_result_the_same\bin\Debug\net6.0\Is_result_the_same.dll
+C:\Projects\Is_result_the_same\Is_result_the_same\bin\Debug\net6.0\Is_result_the_same.pdb
+C:\Projects\Is_result_the_same\Is_result_the_same\obj\Debug\net6.0\Is_result_the_same.dll
+C:\Projects\Is_result_the_same\Is_result_the_same\obj\Debug\net6.0\refint\Is_result_the_same.dll
+C:\Projects\Is_result_the_same\Is_result_the_same\obj\Debug\net6.0\Is_result_the_same.pdb
+C:\Projects\Is_result_the_same\Is_result_the_same\obj\Debug\net6.0\Is_result_the_same.genruntimeconfig.cache
+C:\Projects\Is_result_the_same\Is_result_the_same\obj\Debug\net6.0\ref\Is_result_the_same.dll
