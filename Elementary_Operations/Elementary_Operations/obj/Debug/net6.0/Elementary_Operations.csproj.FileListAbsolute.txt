@@ -1,0 +1,15 @@
+C:\Projects\Elementary_Operations\Elementary_Operations\bin\Debug\net6.0\Elementary_Operations.exe
+C:\Projects\Elementary_Operations\Elementary_Operations\bin\Debug\net6.0\Elementary_Operations.deps.json
+C:\Projects\Elementary_Operations\Elementary_Operations\bin\Debug\net6.0\Elementary_Operations.runtimeconfig.json
+C:\Projects\Elementary_Operations\Elementary_Operations\bin\Debug\net6.0\Elementary_Operations.dll
+C:\Projects\Elementary_Operations\Elementary_Operations\bin\Debug\net6.0\Elementary_Operations.pdb
+C:\Projects\Elementary_Operations\Elementary_Operations\obj\Debug\net6.0\Elementary_Operations.csproj.AssemblyReference.cache
+C:\Projects\Elementary_Operations\Elementary_Operations\obj\Debug\net6.0\Elementary_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Elementary_Operations\Elementary_Operations\obj\Debug\net6.0\Elementary_Operations.AssemblyInfoInputs.cache
+C:\Projects\Elementary_Operations\Elementary_Operations\obj\Debug\net6.0\Elementary_Operations.AssemblyInfo.cs
+C:\Projects\Elementary_Operations\Elementary_Operations\obj\Debug\net6.0\Elementary_Operations.csproj.CoreCompileInputs.cache
+C:\Projects\Elementary_Operations\Elementary_Operations\obj\Debug\net6.0\Elementary_Operations.dll
+C:\Projects\Elementary_Operations\Elementary_Operations\obj\Debug\net6.0\refint\Elementary_Operations.dll
+C:\Projects\Elementary_Operations\Elementary_Operations\obj\Debug\net6.0\Elementary_Operations.pdb
+C:\Projects\Elementary_Operations\Elementary_Operations\obj\Debug\net6.0\Elementary_Operations.genruntimeconfig.cache
+C:\Projects\Elementary_Operations\Elementary_Operations\obj\Debug\net6.0\ref\Elementary_Operations.dll
