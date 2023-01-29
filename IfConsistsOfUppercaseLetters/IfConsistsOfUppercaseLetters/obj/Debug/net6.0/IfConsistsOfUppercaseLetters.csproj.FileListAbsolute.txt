@@ -1,0 +1,15 @@
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\bin\Debug\net6.0\IfConsistsOfUppercaseLetters.exe
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\bin\Debug\net6.0\IfConsistsOfUppercaseLetters.deps.json
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\bin\Debug\net6.0\IfConsistsOfUppercaseLetters.runtimeconfig.json
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\bin\Debug\net6.0\IfConsistsOfUppercaseLetters.dll
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\bin\Debug\net6.0\IfConsistsOfUppercaseLetters.pdb
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\obj\Debug\net6.0\IfConsistsOfUppercaseLetters.csproj.AssemblyReference.cache
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\obj\Debug\net6.0\IfConsistsOfUppercaseLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\obj\Debug\net6.0\IfConsistsOfUppercaseLetters.AssemblyInfoInputs.cache
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\obj\Debug\net6.0\IfConsistsOfUppercaseLetters.AssemblyInfo.cs
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\obj\Debug\net6.0\IfConsistsOfUppercaseLetters.csproj.CoreCompileInputs.cache
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\obj\Debug\net6.0\IfConsistsOfUppercaseLetters.dll
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\obj\Debug\net6.0\refint\IfConsistsOfUppercaseLetters.dll
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\obj\Debug\net6.0\IfConsistsOfUppercaseLetters.pdb
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\obj\Debug\net6.0\IfConsistsOfUppercaseLetters.genruntimeconfig.cache
+C:\Projects\IfConsistsOfUppercaseLetters\IfConsistsOfUppercaseLetters\obj\Debug\net6.0\ref\IfConsistsOfUppercaseLetters.dll
