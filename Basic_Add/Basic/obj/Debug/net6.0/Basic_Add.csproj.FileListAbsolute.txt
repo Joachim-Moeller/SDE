@@ -1,0 +1,15 @@
+C:\Projects\Basic_Add\Basic\bin\Debug\net6.0\Basic_Add.exe
+C:\Projects\Basic_Add\Basic\bin\Debug\net6.0\Basic_Add.deps.json
+C:\Projects\Basic_Add\Basic\bin\Debug\net6.0\Basic_Add.runtimeconfig.json
+C:\Projects\Basic_Add\Basic\bin\Debug\net6.0\Basic_Add.dll
+C:\Projects\Basic_Add\Basic\bin\Debug\net6.0\Basic_Add.pdb
+C:\Projects\Basic_Add\Basic\obj\Debug\net6.0\Basic_Add.csproj.AssemblyReference.cache
+C:\Projects\Basic_Add\Basic\obj\Debug\net6.0\Basic_Add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Basic_Add\Basic\obj\Debug\net6.0\Basic_Add.AssemblyInfoInputs.cache
+C:\Projects\Basic_Add\Basic\obj\Debug\net6.0\Basic_Add.AssemblyInfo.cs
+C:\Projects\Basic_Add\Basic\obj\Debug\net6.0\Basic_Add.csproj.CoreCompileInputs.cache
+C:\Projects\Basic_Add\Basic\obj\Debug\net6.0\Basic_Add.dll
+C:\Projects\Basic_Add\Basic\obj\Debug\net6.0\refint\Basic_Add.dll
+C:\Projects\Basic_Add\Basic\obj\Debug\net6.0\Basic_Add.pdb
+C:\Projects\Basic_Add\Basic\obj\Debug\net6.0\Basic_Add.genruntimeconfig.cache
+C:\Projects\Basic_Add\Basic\obj\Debug\net6.0\ref\Basic_Add.dll
