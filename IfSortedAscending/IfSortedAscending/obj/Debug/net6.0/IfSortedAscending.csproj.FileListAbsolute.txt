@@ -1,0 +1,15 @@
+C:\Projects\IfSortedAscending\IfSortedAscending\bin\Debug\net6.0\IfSortedAscending.exe
+C:\Projects\IfSortedAscending\IfSortedAscending\bin\Debug\net6.0\IfSortedAscending.deps.json
+C:\Projects\IfSortedAscending\IfSortedAscending\bin\Debug\net6.0\IfSortedAscending.runtimeconfig.json
+C:\Projects\IfSortedAscending\IfSortedAscending\bin\Debug\net6.0\IfSortedAscending.dll
+C:\Projects\IfSortedAscending\IfSortedAscending\bin\Debug\net6.0\IfSortedAscending.pdb
+C:\Projects\IfSortedAscending\IfSortedAscending\obj\Debug\net6.0\IfSortedAscending.csproj.AssemblyReference.cache
+C:\Projects\IfSortedAscending\IfSortedAscending\obj\Debug\net6.0\IfSortedAscending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\IfSortedAscending\IfSortedAscending\obj\Debug\net6.0\IfSortedAscending.AssemblyInfoInputs.cache
+C:\Projects\IfSortedAscending\IfSortedAscending\obj\Debug\net6.0\IfSortedAscending.AssemblyInfo.cs
+C:\Projects\IfSortedAscending\IfSortedAscending\obj\Debug\net6.0\IfSortedAscending.csproj.CoreCompileInputs.cache
+C:\Projects\IfSortedAscending\IfSortedAscending\obj\Debug\net6.0\IfSortedAscending.dll
+C:\Projects\IfSortedAscending\IfSortedAscending\obj\Debug\net6.0\refint\IfSortedAscending.dll
+C:\Projects\IfSortedAscending\IfSortedAscending\obj\Debug\net6.0\IfSortedAscending.pdb
+C:\Projects\IfSortedAscending\IfSortedAscending\obj\Debug\net6.0\IfSortedAscending.genruntimeconfig.cache
+C:\Projects\IfSortedAscending\IfSortedAscending\obj\Debug\net6.0\ref\IfSortedAscending.dll
