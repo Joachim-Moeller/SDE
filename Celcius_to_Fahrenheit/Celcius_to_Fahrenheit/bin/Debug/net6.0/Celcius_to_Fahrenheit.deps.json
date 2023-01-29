@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Celcius_to_Fahrenheit/1.0.0": {
+        "runtime": {
+          "Celcius_to_Fahrenheit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Celcius_to_Fahrenheit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

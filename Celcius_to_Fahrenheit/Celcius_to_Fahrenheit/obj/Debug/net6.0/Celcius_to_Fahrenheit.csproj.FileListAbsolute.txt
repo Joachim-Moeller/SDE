@@ -1,0 +1,15 @@
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\bin\Debug\net6.0\Celcius_to_Fahrenheit.exe
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\bin\Debug\net6.0\Celcius_to_Fahrenheit.deps.json
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\bin\Debug\net6.0\Celcius_to_Fahrenheit.runtimeconfig.json
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\bin\Debug\net6.0\Celcius_to_Fahrenheit.dll
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\bin\Debug\net6.0\Celcius_to_Fahrenheit.pdb
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\obj\Debug\net6.0\Celcius_to_Fahrenheit.csproj.AssemblyReference.cache
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\obj\Debug\net6.0\Celcius_to_Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\obj\Debug\net6.0\Celcius_to_Fahrenheit.AssemblyInfoInputs.cache
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\obj\Debug\net6.0\Celcius_to_Fahrenheit.AssemblyInfo.cs
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\obj\Debug\net6.0\Celcius_to_Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\obj\Debug\net6.0\Celcius_to_Fahrenheit.dll
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\obj\Debug\net6.0\refint\Celcius_to_Fahrenheit.dll
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\obj\Debug\net6.0\Celcius_to_Fahrenheit.pdb
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\obj\Debug\net6.0\Celcius_to_Fahrenheit.genruntimeconfig.cache
+C:\Projects\Celcius_to_Fahrenheit\Celcius_to_Fahrenheit\obj\Debug\net6.0\ref\Celcius_to_Fahrenheit.dll
