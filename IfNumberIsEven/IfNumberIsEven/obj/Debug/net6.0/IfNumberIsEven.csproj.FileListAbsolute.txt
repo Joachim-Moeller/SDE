@@ -1,0 +1,15 @@
+C:\Projects\IfNumberIsEven\IfNumberIsEven\bin\Debug\net6.0\IfNumberIsEven.exe
+C:\Projects\IfNumberIsEven\IfNumberIsEven\bin\Debug\net6.0\IfNumberIsEven.deps.json
+C:\Projects\IfNumberIsEven\IfNumberIsEven\bin\Debug\net6.0\IfNumberIsEven.runtimeconfig.json
+C:\Projects\IfNumberIsEven\IfNumberIsEven\bin\Debug\net6.0\IfNumberIsEven.dll
+C:\Projects\IfNumberIsEven\IfNumberIsEven\bin\Debug\net6.0\IfNumberIsEven.pdb
+C:\Projects\IfNumberIsEven\IfNumberIsEven\obj\Debug\net6.0\IfNumberIsEven.csproj.AssemblyReference.cache
+C:\Projects\IfNumberIsEven\IfNumberIsEven\obj\Debug\net6.0\IfNumberIsEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\IfNumberIsEven\IfNumberIsEven\obj\Debug\net6.0\IfNumberIsEven.AssemblyInfoInputs.cache
+C:\Projects\IfNumberIsEven\IfNumberIsEven\obj\Debug\net6.0\IfNumberIsEven.AssemblyInfo.cs
+C:\Projects\IfNumberIsEven\IfNumberIsEven\obj\Debug\net6.0\IfNumberIsEven.csproj.CoreCompileInputs.cache
+C:\Projects\IfNumberIsEven\IfNumberIsEven\obj\Debug\net6.0\IfNumberIsEven.dll
+C:\Projects\IfNumberIsEven\IfNumberIsEven\obj\Debug\net6.0\refint\IfNumberIsEven.dll
+C:\Projects\IfNumberIsEven\IfNumberIsEven\obj\Debug\net6.0\IfNumberIsEven.pdb
+C:\Projects\IfNumberIsEven\IfNumberIsEven\obj\Debug\net6.0\IfNumberIsEven.genruntimeconfig.cache
+C:\Projects\IfNumberIsEven\IfNumberIsEven\obj\Debug\net6.0\ref\IfNumberIsEven.dll
