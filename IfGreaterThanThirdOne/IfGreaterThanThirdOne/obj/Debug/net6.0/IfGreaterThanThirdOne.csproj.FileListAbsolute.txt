@@ -1,0 +1,15 @@
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\bin\Debug\net6.0\IfGreaterThanThirdOne.exe
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\bin\Debug\net6.0\IfGreaterThanThirdOne.deps.json
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\bin\Debug\net6.0\IfGreaterThanThirdOne.runtimeconfig.json
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\bin\Debug\net6.0\IfGreaterThanThirdOne.dll
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\bin\Debug\net6.0\IfGreaterThanThirdOne.pdb
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\obj\Debug\net6.0\IfGreaterThanThirdOne.csproj.AssemblyReference.cache
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\obj\Debug\net6.0\IfGreaterThanThirdOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\obj\Debug\net6.0\IfGreaterThanThirdOne.AssemblyInfoInputs.cache
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\obj\Debug\net6.0\IfGreaterThanThirdOne.AssemblyInfo.cs
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\obj\Debug\net6.0\IfGreaterThanThirdOne.csproj.CoreCompileInputs.cache
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\obj\Debug\net6.0\IfGreaterThanThirdOne.dll
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\obj\Debug\net6.0\refint\IfGreaterThanThirdOne.dll
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\obj\Debug\net6.0\IfGreaterThanThirdOne.pdb
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\obj\Debug\net6.0\IfGreaterThanThirdOne.genruntimeconfig.cache
+C:\Projects\IfGreaterThanThirdOne\IfGreaterThanThirdOne\obj\Debug\net6.0\ref\IfGreaterThanThirdOne.dll
