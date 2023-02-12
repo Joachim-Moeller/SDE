@@ -1,0 +1,15 @@
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\bin\Debug\net6.0\Two7sNextToEachOther.exe
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\bin\Debug\net6.0\Two7sNextToEachOther.deps.json
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\bin\Debug\net6.0\Two7sNextToEachOther.runtimeconfig.json
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\bin\Debug\net6.0\Two7sNextToEachOther.dll
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\bin\Debug\net6.0\Two7sNextToEachOther.pdb
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\obj\Debug\net6.0\Two7sNextToEachOther.csproj.AssemblyReference.cache
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\obj\Debug\net6.0\Two7sNextToEachOther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\obj\Debug\net6.0\Two7sNextToEachOther.AssemblyInfoInputs.cache
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\obj\Debug\net6.0\Two7sNextToEachOther.AssemblyInfo.cs
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\obj\Debug\net6.0\Two7sNextToEachOther.csproj.CoreCompileInputs.cache
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\obj\Debug\net6.0\Two7sNextToEachOther.dll
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\obj\Debug\net6.0\refint\Two7sNextToEachOther.dll
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\obj\Debug\net6.0\Two7sNextToEachOther.pdb
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\obj\Debug\net6.0\Two7sNextToEachOther.genruntimeconfig.cache
+C:\Projects\Two7sNextToEachOther\Two7sNextToEachOther\obj\Debug\net6.0\ref\Two7sNextToEachOther.dll
