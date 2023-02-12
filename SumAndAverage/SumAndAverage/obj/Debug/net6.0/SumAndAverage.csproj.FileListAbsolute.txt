@@ -1,0 +1,15 @@
+C:\Projects\SumAndAverage\SumAndAverage\bin\Debug\net6.0\SumAndAverage.exe
+C:\Projects\SumAndAverage\SumAndAverage\bin\Debug\net6.0\SumAndAverage.deps.json
+C:\Projects\SumAndAverage\SumAndAverage\bin\Debug\net6.0\SumAndAverage.runtimeconfig.json
+C:\Projects\SumAndAverage\SumAndAverage\bin\Debug\net6.0\SumAndAverage.dll
+C:\Projects\SumAndAverage\SumAndAverage\bin\Debug\net6.0\SumAndAverage.pdb
+C:\Projects\SumAndAverage\SumAndAverage\obj\Debug\net6.0\SumAndAverage.csproj.AssemblyReference.cache
+C:\Projects\SumAndAverage\SumAndAverage\obj\Debug\net6.0\SumAndAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SumAndAverage\SumAndAverage\obj\Debug\net6.0\SumAndAverage.AssemblyInfoInputs.cache
+C:\Projects\SumAndAverage\SumAndAverage\obj\Debug\net6.0\SumAndAverage.AssemblyInfo.cs
+C:\Projects\SumAndAverage\SumAndAverage\obj\Debug\net6.0\SumAndAverage.csproj.CoreCompileInputs.cache
+C:\Projects\SumAndAverage\SumAndAverage\obj\Debug\net6.0\SumAndAverage.dll
+C:\Projects\SumAndAverage\SumAndAverage\obj\Debug\net6.0\refint\SumAndAverage.dll
+C:\Projects\SumAndAverage\SumAndAverage\obj\Debug\net6.0\SumAndAverage.pdb
+C:\Projects\SumAndAverage\SumAndAverage\obj\Debug\net6.0\SumAndAverage.genruntimeconfig.cache
+C:\Projects\SumAndAverage\SumAndAverage\obj\Debug\net6.0\ref\SumAndAverage.dll
