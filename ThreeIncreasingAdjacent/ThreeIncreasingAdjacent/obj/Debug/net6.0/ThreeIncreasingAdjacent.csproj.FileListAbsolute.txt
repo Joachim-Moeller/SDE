@@ -1,0 +1,15 @@
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\bin\Debug\net6.0\ThreeIncreasingAdjacent.exe
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\bin\Debug\net6.0\ThreeIncreasingAdjacent.deps.json
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\bin\Debug\net6.0\ThreeIncreasingAdjacent.runtimeconfig.json
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\bin\Debug\net6.0\ThreeIncreasingAdjacent.dll
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\bin\Debug\net6.0\ThreeIncreasingAdjacent.pdb
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\obj\Debug\net6.0\ThreeIncreasingAdjacent.csproj.AssemblyReference.cache
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\obj\Debug\net6.0\ThreeIncreasingAdjacent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\obj\Debug\net6.0\ThreeIncreasingAdjacent.AssemblyInfoInputs.cache
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\obj\Debug\net6.0\ThreeIncreasingAdjacent.AssemblyInfo.cs
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\obj\Debug\net6.0\ThreeIncreasingAdjacent.csproj.CoreCompileInputs.cache
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\obj\Debug\net6.0\ThreeIncreasingAdjacent.dll
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\obj\Debug\net6.0\refint\ThreeIncreasingAdjacent.dll
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\obj\Debug\net6.0\ThreeIncreasingAdjacent.pdb
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\obj\Debug\net6.0\ThreeIncreasingAdjacent.genruntimeconfig.cache
+C:\Projects\ThreeIncreasingAdjacent\ThreeIncreasingAdjacent\obj\Debug\net6.0\ref\ThreeIncreasingAdjacent.dll
