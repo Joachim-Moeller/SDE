@@ -1,0 +1,15 @@
+C:\Projects\TheBiggestNumber\TheBiggestNumber\bin\Debug\net6.0\TheBiggestNumber.exe
+C:\Projects\TheBiggestNumber\TheBiggestNumber\bin\Debug\net6.0\TheBiggestNumber.deps.json
+C:\Projects\TheBiggestNumber\TheBiggestNumber\bin\Debug\net6.0\TheBiggestNumber.runtimeconfig.json
+C:\Projects\TheBiggestNumber\TheBiggestNumber\bin\Debug\net6.0\TheBiggestNumber.dll
+C:\Projects\TheBiggestNumber\TheBiggestNumber\bin\Debug\net6.0\TheBiggestNumber.pdb
+C:\Projects\TheBiggestNumber\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.csproj.AssemblyReference.cache
+C:\Projects\TheBiggestNumber\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TheBiggestNumber\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.AssemblyInfoInputs.cache
+C:\Projects\TheBiggestNumber\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.AssemblyInfo.cs
+C:\Projects\TheBiggestNumber\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.csproj.CoreCompileInputs.cache
+C:\Projects\TheBiggestNumber\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.dll
+C:\Projects\TheBiggestNumber\TheBiggestNumber\obj\Debug\net6.0\refint\TheBiggestNumber.dll
+C:\Projects\TheBiggestNumber\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.pdb
+C:\Projects\TheBiggestNumber\TheBiggestNumber\obj\Debug\net6.0\TheBiggestNumber.genruntimeconfig.cache
+C:\Projects\TheBiggestNumber\TheBiggestNumber\obj\Debug\net6.0\ref\TheBiggestNumber.dll

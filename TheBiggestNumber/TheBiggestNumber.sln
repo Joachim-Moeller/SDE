@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33312.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBiggestNumber", "TheBiggestNumber\TheBiggestNumber.csproj", "{14471DE9-62ED-4CA4-A046-519C5B7377EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14471DE9-62ED-4CA4-A046-519C5B7377EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14471DE9-62ED-4CA4-A046-519C5B7377EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14471DE9-62ED-4CA4-A046-519C5B7377EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14471DE9-62ED-4CA4-A046-519C5B7377EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B2C5DBD-8A9D-4084-8A30-8F28EA5A035A}
+	EndGlobalSection
+EndGlobal
