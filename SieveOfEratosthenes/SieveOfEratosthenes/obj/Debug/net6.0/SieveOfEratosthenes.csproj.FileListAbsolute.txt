@@ -1,0 +1,15 @@
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.exe
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.deps.json
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.runtimeconfig.json
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.dll
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\net6.0\SieveOfEratosthenes.pdb
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.csproj.AssemblyReference.cache
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.AssemblyInfoInputs.cache
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.AssemblyInfo.cs
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.dll
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\refint\SieveOfEratosthenes.dll
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.pdb
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\SieveOfEratosthenes.genruntimeconfig.cache
+C:\Projects\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\net6.0\ref\SieveOfEratosthenes.dll
