@@ -1,0 +1,15 @@
+C:\Projects\ToThePowerOf\ToThePowerOf\bin\Debug\net6.0\ToThePowerOf.exe
+C:\Projects\ToThePowerOf\ToThePowerOf\bin\Debug\net6.0\ToThePowerOf.deps.json
+C:\Projects\ToThePowerOf\ToThePowerOf\bin\Debug\net6.0\ToThePowerOf.runtimeconfig.json
+C:\Projects\ToThePowerOf\ToThePowerOf\bin\Debug\net6.0\ToThePowerOf.dll
+C:\Projects\ToThePowerOf\ToThePowerOf\bin\Debug\net6.0\ToThePowerOf.pdb
+C:\Projects\ToThePowerOf\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.csproj.AssemblyReference.cache
+C:\Projects\ToThePowerOf\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ToThePowerOf\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.AssemblyInfoInputs.cache
+C:\Projects\ToThePowerOf\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.AssemblyInfo.cs
+C:\Projects\ToThePowerOf\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.csproj.CoreCompileInputs.cache
+C:\Projects\ToThePowerOf\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.dll
+C:\Projects\ToThePowerOf\ToThePowerOf\obj\Debug\net6.0\refint\ToThePowerOf.dll
+C:\Projects\ToThePowerOf\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.pdb
+C:\Projects\ToThePowerOf\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.genruntimeconfig.cache
+C:\Projects\ToThePowerOf\ToThePowerOf\obj\Debug\net6.0\ref\ToThePowerOf.dll
