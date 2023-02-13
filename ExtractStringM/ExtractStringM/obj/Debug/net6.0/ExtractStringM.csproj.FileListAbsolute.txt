@@ -1,0 +1,15 @@
+C:\Projects\ExtractStringM\ExtractStringM\bin\Debug\net6.0\ExtractStringM.exe
+C:\Projects\ExtractStringM\ExtractStringM\bin\Debug\net6.0\ExtractStringM.deps.json
+C:\Projects\ExtractStringM\ExtractStringM\bin\Debug\net6.0\ExtractStringM.runtimeconfig.json
+C:\Projects\ExtractStringM\ExtractStringM\bin\Debug\net6.0\ExtractStringM.dll
+C:\Projects\ExtractStringM\ExtractStringM\bin\Debug\net6.0\ExtractStringM.pdb
+C:\Projects\ExtractStringM\ExtractStringM\obj\Debug\net6.0\ExtractStringM.csproj.AssemblyReference.cache
+C:\Projects\ExtractStringM\ExtractStringM\obj\Debug\net6.0\ExtractStringM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ExtractStringM\ExtractStringM\obj\Debug\net6.0\ExtractStringM.AssemblyInfoInputs.cache
+C:\Projects\ExtractStringM\ExtractStringM\obj\Debug\net6.0\ExtractStringM.AssemblyInfo.cs
+C:\Projects\ExtractStringM\ExtractStringM\obj\Debug\net6.0\ExtractStringM.csproj.CoreCompileInputs.cache
+C:\Projects\ExtractStringM\ExtractStringM\obj\Debug\net6.0\ExtractStringM.dll
+C:\Projects\ExtractStringM\ExtractStringM\obj\Debug\net6.0\refint\ExtractStringM.dll
+C:\Projects\ExtractStringM\ExtractStringM\obj\Debug\net6.0\ExtractStringM.pdb
+C:\Projects\ExtractStringM\ExtractStringM\obj\Debug\net6.0\ExtractStringM.genruntimeconfig.cache
+C:\Projects\ExtractStringM\ExtractStringM\obj\Debug\net6.0\ref\ExtractStringM.dll
