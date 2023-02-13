@@ -1,0 +1,15 @@
+C:\Projects\DrawTriangle\DrawTriangle\bin\Debug\net6.0\DrawTriangle.exe
+C:\Projects\DrawTriangle\DrawTriangle\bin\Debug\net6.0\DrawTriangle.deps.json
+C:\Projects\DrawTriangle\DrawTriangle\bin\Debug\net6.0\DrawTriangle.runtimeconfig.json
+C:\Projects\DrawTriangle\DrawTriangle\bin\Debug\net6.0\DrawTriangle.dll
+C:\Projects\DrawTriangle\DrawTriangle\bin\Debug\net6.0\DrawTriangle.pdb
+C:\Projects\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.csproj.AssemblyReference.cache
+C:\Projects\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.AssemblyInfoInputs.cache
+C:\Projects\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.AssemblyInfo.cs
+C:\Projects\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.csproj.CoreCompileInputs.cache
+C:\Projects\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.dll
+C:\Projects\DrawTriangle\DrawTriangle\obj\Debug\net6.0\refint\DrawTriangle.dll
+C:\Projects\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.pdb
+C:\Projects\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.genruntimeconfig.cache
+C:\Projects\DrawTriangle\DrawTriangle\obj\Debug\net6.0\ref\DrawTriangle.dll
