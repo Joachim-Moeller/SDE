@@ -1,0 +1,15 @@
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\bin\Debug\net6.0\FullSequenceOfLettersM.exe
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\bin\Debug\net6.0\FullSequenceOfLettersM.deps.json
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\bin\Debug\net6.0\FullSequenceOfLettersM.runtimeconfig.json
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\bin\Debug\net6.0\FullSequenceOfLettersM.dll
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\bin\Debug\net6.0\FullSequenceOfLettersM.pdb
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\obj\Debug\net6.0\FullSequenceOfLettersM.csproj.AssemblyReference.cache
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\obj\Debug\net6.0\FullSequenceOfLettersM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\obj\Debug\net6.0\FullSequenceOfLettersM.AssemblyInfoInputs.cache
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\obj\Debug\net6.0\FullSequenceOfLettersM.AssemblyInfo.cs
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\obj\Debug\net6.0\FullSequenceOfLettersM.csproj.CoreCompileInputs.cache
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\obj\Debug\net6.0\FullSequenceOfLettersM.dll
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\obj\Debug\net6.0\refint\FullSequenceOfLettersM.dll
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\obj\Debug\net6.0\FullSequenceOfLettersM.pdb
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\obj\Debug\net6.0\FullSequenceOfLettersM.genruntimeconfig.cache
+C:\Projects\FullSequenceOfLettersM\FullSequenceOfLettersM\obj\Debug\net6.0\ref\FullSequenceOfLettersM.dll
