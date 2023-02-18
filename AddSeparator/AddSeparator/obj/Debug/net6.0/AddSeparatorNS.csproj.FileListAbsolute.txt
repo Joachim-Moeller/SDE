@@ -1,0 +1,15 @@
+C:\Projects\AddSeparator\AddSeparator\bin\Debug\net6.0\AddSeparatorNS.exe
+C:\Projects\AddSeparator\AddSeparator\bin\Debug\net6.0\AddSeparatorNS.deps.json
+C:\Projects\AddSeparator\AddSeparator\bin\Debug\net6.0\AddSeparatorNS.runtimeconfig.json
+C:\Projects\AddSeparator\AddSeparator\bin\Debug\net6.0\AddSeparatorNS.dll
+C:\Projects\AddSeparator\AddSeparator\bin\Debug\net6.0\AddSeparatorNS.pdb
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparatorNS.csproj.AssemblyReference.cache
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparatorNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparatorNS.AssemblyInfoInputs.cache
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparatorNS.AssemblyInfo.cs
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparatorNS.csproj.CoreCompileInputs.cache
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparatorNS.dll
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\refint\AddSeparatorNS.dll
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparatorNS.pdb
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparatorNS.genruntimeconfig.cache
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\ref\AddSeparatorNS.dll

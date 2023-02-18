@@ -1,0 +1,15 @@
+C:\Projects\AddSeparator\AddSeparator\bin\Debug\net6.0\AddSeparator.exe
+C:\Projects\AddSeparator\AddSeparator\bin\Debug\net6.0\AddSeparator.deps.json
+C:\Projects\AddSeparator\AddSeparator\bin\Debug\net6.0\AddSeparator.runtimeconfig.json
+C:\Projects\AddSeparator\AddSeparator\bin\Debug\net6.0\AddSeparator.dll
+C:\Projects\AddSeparator\AddSeparator\bin\Debug\net6.0\AddSeparator.pdb
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparator.csproj.AssemblyReference.cache
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparator.AssemblyInfoInputs.cache
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparator.AssemblyInfo.cs
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparator.csproj.CoreCompileInputs.cache
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparator.dll
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\refint\AddSeparator.dll
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparator.pdb
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\AddSeparator.genruntimeconfig.cache
+C:\Projects\AddSeparator\AddSeparator\obj\Debug\net6.0\ref\AddSeparator.dll
