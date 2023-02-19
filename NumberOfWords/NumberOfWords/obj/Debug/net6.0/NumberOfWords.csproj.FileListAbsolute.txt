@@ -1,0 +1,15 @@
+C:\Projects\NumberOfWords\NumberOfWords\bin\Debug\net6.0\NumberOfWords.exe
+C:\Projects\NumberOfWords\NumberOfWords\bin\Debug\net6.0\NumberOfWords.deps.json
+C:\Projects\NumberOfWords\NumberOfWords\bin\Debug\net6.0\NumberOfWords.runtimeconfig.json
+C:\Projects\NumberOfWords\NumberOfWords\bin\Debug\net6.0\NumberOfWords.dll
+C:\Projects\NumberOfWords\NumberOfWords\bin\Debug\net6.0\NumberOfWords.pdb
+C:\Projects\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.csproj.AssemblyReference.cache
+C:\Projects\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.AssemblyInfoInputs.cache
+C:\Projects\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.AssemblyInfo.cs
+C:\Projects\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.csproj.CoreCompileInputs.cache
+C:\Projects\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.dll
+C:\Projects\NumberOfWords\NumberOfWords\obj\Debug\net6.0\refint\NumberOfWords.dll
+C:\Projects\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.pdb
+C:\Projects\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.genruntimeconfig.cache
+C:\Projects\NumberOfWords\NumberOfWords\obj\Debug\net6.0\ref\NumberOfWords.dll
