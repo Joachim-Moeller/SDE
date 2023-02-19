@@ -1,0 +1,15 @@
+C:\Projects\SortCharactersDescending\SortCharactersDescending\bin\Debug\net6.0\SortCharactersDescending.exe
+C:\Projects\SortCharactersDescending\SortCharactersDescending\bin\Debug\net6.0\SortCharactersDescending.deps.json
+C:\Projects\SortCharactersDescending\SortCharactersDescending\bin\Debug\net6.0\SortCharactersDescending.runtimeconfig.json
+C:\Projects\SortCharactersDescending\SortCharactersDescending\bin\Debug\net6.0\SortCharactersDescending.dll
+C:\Projects\SortCharactersDescending\SortCharactersDescending\bin\Debug\net6.0\SortCharactersDescending.pdb
+C:\Projects\SortCharactersDescending\SortCharactersDescending\obj\Debug\net6.0\SortCharactersDescending.csproj.AssemblyReference.cache
+C:\Projects\SortCharactersDescending\SortCharactersDescending\obj\Debug\net6.0\SortCharactersDescending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SortCharactersDescending\SortCharactersDescending\obj\Debug\net6.0\SortCharactersDescending.AssemblyInfoInputs.cache
+C:\Projects\SortCharactersDescending\SortCharactersDescending\obj\Debug\net6.0\SortCharactersDescending.AssemblyInfo.cs
+C:\Projects\SortCharactersDescending\SortCharactersDescending\obj\Debug\net6.0\SortCharactersDescending.csproj.CoreCompileInputs.cache
+C:\Projects\SortCharactersDescending\SortCharactersDescending\obj\Debug\net6.0\SortCharactersDescending.dll
+C:\Projects\SortCharactersDescending\SortCharactersDescending\obj\Debug\net6.0\refint\SortCharactersDescending.dll
+C:\Projects\SortCharactersDescending\SortCharactersDescending\obj\Debug\net6.0\SortCharactersDescending.pdb
+C:\Projects\SortCharactersDescending\SortCharactersDescending\obj\Debug\net6.0\SortCharactersDescending.genruntimeconfig.cache
+C:\Projects\SortCharactersDescending\SortCharactersDescending\obj\Debug\net6.0\ref\SortCharactersDescending.dll
