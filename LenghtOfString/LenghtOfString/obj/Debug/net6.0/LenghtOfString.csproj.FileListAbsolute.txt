@@ -1,0 +1,15 @@
+C:\Projects\LenghtOfString\LenghtOfString\bin\Debug\net6.0\LenghtOfString.exe
+C:\Projects\LenghtOfString\LenghtOfString\bin\Debug\net6.0\LenghtOfString.deps.json
+C:\Projects\LenghtOfString\LenghtOfString\bin\Debug\net6.0\LenghtOfString.runtimeconfig.json
+C:\Projects\LenghtOfString\LenghtOfString\bin\Debug\net6.0\LenghtOfString.dll
+C:\Projects\LenghtOfString\LenghtOfString\bin\Debug\net6.0\LenghtOfString.pdb
+C:\Projects\LenghtOfString\LenghtOfString\obj\Debug\net6.0\LenghtOfString.csproj.AssemblyReference.cache
+C:\Projects\LenghtOfString\LenghtOfString\obj\Debug\net6.0\LenghtOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LenghtOfString\LenghtOfString\obj\Debug\net6.0\LenghtOfString.AssemblyInfoInputs.cache
+C:\Projects\LenghtOfString\LenghtOfString\obj\Debug\net6.0\LenghtOfString.AssemblyInfo.cs
+C:\Projects\LenghtOfString\LenghtOfString\obj\Debug\net6.0\LenghtOfString.csproj.CoreCompileInputs.cache
+C:\Projects\LenghtOfString\LenghtOfString\obj\Debug\net6.0\LenghtOfString.dll
+C:\Projects\LenghtOfString\LenghtOfString\obj\Debug\net6.0\refint\LenghtOfString.dll
+C:\Projects\LenghtOfString\LenghtOfString\obj\Debug\net6.0\LenghtOfString.pdb
+C:\Projects\LenghtOfString\LenghtOfString\obj\Debug\net6.0\LenghtOfString.genruntimeconfig.cache
+C:\Projects\LenghtOfString\LenghtOfString\obj\Debug\net6.0\ref\LenghtOfString.dll
