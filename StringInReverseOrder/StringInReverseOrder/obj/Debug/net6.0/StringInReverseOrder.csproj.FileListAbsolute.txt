@@ -1,0 +1,15 @@
+C:\Projects\StringInReverseOrder\StringInReverseOrder\bin\Debug\net6.0\StringInReverseOrder.exe
+C:\Projects\StringInReverseOrder\StringInReverseOrder\bin\Debug\net6.0\StringInReverseOrder.deps.json
+C:\Projects\StringInReverseOrder\StringInReverseOrder\bin\Debug\net6.0\StringInReverseOrder.runtimeconfig.json
+C:\Projects\StringInReverseOrder\StringInReverseOrder\bin\Debug\net6.0\StringInReverseOrder.dll
+C:\Projects\StringInReverseOrder\StringInReverseOrder\bin\Debug\net6.0\StringInReverseOrder.pdb
+C:\Projects\StringInReverseOrder\StringInReverseOrder\obj\Debug\net6.0\StringInReverseOrder.csproj.AssemblyReference.cache
+C:\Projects\StringInReverseOrder\StringInReverseOrder\obj\Debug\net6.0\StringInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\StringInReverseOrder\StringInReverseOrder\obj\Debug\net6.0\StringInReverseOrder.AssemblyInfoInputs.cache
+C:\Projects\StringInReverseOrder\StringInReverseOrder\obj\Debug\net6.0\StringInReverseOrder.AssemblyInfo.cs
+C:\Projects\StringInReverseOrder\StringInReverseOrder\obj\Debug\net6.0\StringInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Projects\StringInReverseOrder\StringInReverseOrder\obj\Debug\net6.0\StringInReverseOrder.dll
+C:\Projects\StringInReverseOrder\StringInReverseOrder\obj\Debug\net6.0\refint\StringInReverseOrder.dll
+C:\Projects\StringInReverseOrder\StringInReverseOrder\obj\Debug\net6.0\StringInReverseOrder.pdb
+C:\Projects\StringInReverseOrder\StringInReverseOrder\obj\Debug\net6.0\StringInReverseOrder.genruntimeconfig.cache
+C:\Projects\StringInReverseOrder\StringInReverseOrder\obj\Debug\net6.0\ref\StringInReverseOrder.dll
