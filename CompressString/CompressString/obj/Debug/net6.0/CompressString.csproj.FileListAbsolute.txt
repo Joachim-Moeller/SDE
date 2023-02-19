@@ -1,0 +1,15 @@
+C:\Projects\CompressString\CompressString\bin\Debug\net6.0\CompressString.exe
+C:\Projects\CompressString\CompressString\bin\Debug\net6.0\CompressString.deps.json
+C:\Projects\CompressString\CompressString\bin\Debug\net6.0\CompressString.runtimeconfig.json
+C:\Projects\CompressString\CompressString\bin\Debug\net6.0\CompressString.dll
+C:\Projects\CompressString\CompressString\bin\Debug\net6.0\CompressString.pdb
+C:\Projects\CompressString\CompressString\obj\Debug\net6.0\CompressString.csproj.AssemblyReference.cache
+C:\Projects\CompressString\CompressString\obj\Debug\net6.0\CompressString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CompressString\CompressString\obj\Debug\net6.0\CompressString.AssemblyInfoInputs.cache
+C:\Projects\CompressString\CompressString\obj\Debug\net6.0\CompressString.AssemblyInfo.cs
+C:\Projects\CompressString\CompressString\obj\Debug\net6.0\CompressString.csproj.CoreCompileInputs.cache
+C:\Projects\CompressString\CompressString\obj\Debug\net6.0\CompressString.dll
+C:\Projects\CompressString\CompressString\obj\Debug\net6.0\refint\CompressString.dll
+C:\Projects\CompressString\CompressString\obj\Debug\net6.0\CompressString.pdb
+C:\Projects\CompressString\CompressString\obj\Debug\net6.0\CompressString.genruntimeconfig.cache
+C:\Projects\CompressString\CompressString\obj\Debug\net6.0\ref\CompressString.dll
